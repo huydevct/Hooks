@@ -1,8 +1,8 @@
-# Nooks
+# Learning Hooks
 
-Collection of sexy React Hooks ready to install with NPM
+Collection of React Hooks ready to install with NPM
 
-## Each hook has its own pacakge
+## Each hook has its own package
 
 | Hook            | Description                                               | Documentation                                                                     | NPM Page                                                           |
 | --------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
